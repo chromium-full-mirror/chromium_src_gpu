@@ -2,8 +2,8 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef GPU_CONFIG_GPU_DRIVER_BUG_WORKAROUND_TYPE_H_
-#define GPU_CONFIG_GPU_DRIVER_BUG_WORKAROUND_TYPE_H_
+#ifndef GPU_COMMAND_BUFFER_SERVICE_GPU_DRIVER_BUG_WORDAROUND_TYPE_H_
+#define GPU_COMMAND_BUFFER_SERVICE_GPU_DRIVER_BUG_WORDAROUND_TYPE_H_
 
 #include "gpu/gpu_export.h"
 
@@ -65,5 +65,5 @@ enum GPU_EXPORT GpuDriverBugWorkaroundType {
 
 }  // namespace gpu
 
-#endif  // GPU_CONFIG_GPU_DRIVER_BUG_WORKAROUND_TYPE_H_
+#endif  // GPU_COMMAND_BUFFER_SERVICE_GPU_DRIVER_BUG_WORDAROUND_TYPE_H_
 
